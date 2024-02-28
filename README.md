@@ -35,5 +35,8 @@ Created a gauge chart that displayed the weekly washing frequency of the selecte
 The example gauge code was modified to account for values ranging from 0 through 9.
 
 ### **Deploying website to Github pages**
- - Go to settings. Then pages. Select main branch
+ - Go to settings. Then pages. Select main branch and root folder.
+ - Save. Go to code. On clicking a yellow button and once thejob is completed, go to pages.
+ - The website is deployed in the link as below
+ - 
 
