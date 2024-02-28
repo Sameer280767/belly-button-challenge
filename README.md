@@ -38,5 +38,5 @@ The example gauge code was modified to account for values ranging from 0 through
  - Go to settings. Then pages. Select main branch and root folder.
  - Save. Go to code. On clicking a yellow button and once thejob is completed, go to pages.
  - The website is deployed in the link as below
- - 
+ - https://sameer280767.github.io/belly-button-challenge/ 
 
