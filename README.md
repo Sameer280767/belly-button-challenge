@@ -11,6 +11,7 @@ Project deliverables
 
 ## What tools and steps were followed to execute the challenge?
 - Tools used Javascript/ D3/ HTML/ Plotly
+- App was successfully deployed to Github pages
 
 ## Key Steps
 #### **JSON Data**
@@ -33,4 +34,6 @@ Created a gauge chart that displayed the weekly washing frequency of the selecte
 `metadata.wfreq` in the json data.
 The example gauge code was modified to account for values ranging from 0 through 9.
 
+### **Deploying website to Github pages**
+ - Go to settings. Then pages. Select main branch
 
